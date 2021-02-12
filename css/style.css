@@ -4,8 +4,6 @@ body {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper-red {
     background-color: #f05f40;
     color: white;
@@ -28,10 +26,6 @@ body {
     justify-content: center;
     position: relative;
 }
-
-.quotes-container {}
-
-.features-container {}
 
 /* Content containers */
 
@@ -178,6 +172,7 @@ body {
     border-color: #d5461a;
     text-align: center;
     color: white;
+    text-align: center;
 }
 
 .site-wide-alert .btn {
